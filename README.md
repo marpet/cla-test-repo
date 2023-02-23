@@ -1,4 +1,4 @@
-# test-repo <a href="https://cla-assistant.io/marpet/cla-test-repo"><img src="https://cla-assistant.io/readme/badge/marpet/cla-test-repo" alt="CLA assistant" /></a>
+# test-repo [![CLA assistant](https://cla-assistant.io/readme/badge/marpet/cla-test-repo)](https://cla-assistant.io/marpet/cla-test-repo)
 More text here
 
 Text from Sabine
